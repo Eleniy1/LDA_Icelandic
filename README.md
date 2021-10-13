@@ -12,4 +12,6 @@ LDA для английского корпуса - Gensim_LDA_model_eng.ipynb
 
 Графики - Seaborn.ipynb
 
+Токенизация и лемматизация. - IceNLP_&_Nefnir.ipynb
+
 Все полученные данные находятся в папке LDA_files на google диске - https://drive.google.com/drive/folders/1SWApI9Yir4pSK84C5DXwJ7DBP2pOMwRA?usp=sharing
